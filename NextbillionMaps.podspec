@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name                     = "NextbillionMaps"
-  spec.version                  = "0.0.7"
+  spec.version                  = "0.1.0"
   spec.summary                  = "Private iOS Maps SDK pod by Nextbillion AI"
 
  
@@ -43,7 +43,7 @@ Pod::Spec.new do |spec|
   spec.ios.deployment_target    = "9.0"
 
 
-  spec.source                   = { :http => 'https://github.com/nextbillion-ai/nb-maps-ios-pod/raw/master/nbmaps-v0.0.7.zip' }
+  spec.source                   = { :http => 'https://github.com/nextbillion-ai/nb-maps-ios-pod/raw/master/nbmaps-v0.1.0.zip' }
 
 
 
